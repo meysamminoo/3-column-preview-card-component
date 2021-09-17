@@ -14,6 +14,7 @@
 a {
   text-decoration: none;
 }
+/* classes background color cart */
 .bright-orange {
   background-color: hsl(31, 77%, 52%);
 }
@@ -23,6 +24,7 @@ a {
 .very-dark-cyan {
   background-color: hsl(179, 100%, 13%);
 }
+/* classes font color a */
 .color-bright-orange {
   color: hsl(31, 77%, 52%);
 }
@@ -73,7 +75,6 @@ h2 {
   color: #fff;
   opacity: 0.75;
   line-height: 25px;
-  /* margin: 20px 0; */
 }
 button {
   width: 142px;
@@ -104,8 +105,8 @@ button a:hover {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-
-@media only screen and (max-width: 375px) {
+/* Responsive Design */
+@media only screen and (max-width: 992px) {
   body {
     height: 90%;
   }
