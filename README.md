@@ -12,8 +12,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./ScreenShot.png)
-[FireShot](https://getfireshot.com/)
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/meysamminoo/3-column-preview-card-component)
