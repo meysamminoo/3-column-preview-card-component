@@ -14,8 +14,8 @@ Users should be able to:
 ![](./ScreenShot.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/meysamminoo/3-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://meysamminoo.github.io/3-column-preview-card-component/)
+- Solution URL: [Solution URL](https://github.com/meysamminoo/3-column-preview-card-component)
+- Live Site URL: [Live site URL](https://meysamminoo.github.io/3-column-preview-card-component/)
 
 ### Built with
 
