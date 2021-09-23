@@ -34,6 +34,10 @@ a {
 .color-very-dark-cyan {
   color: hsl(179, 100%, 13%);
 }
+html,
+body {
+  min-width: 370px;
+}
 body {
   font-size: 15px;
   display: flex;
@@ -62,6 +66,9 @@ h2 {
   width: 307px;
   height: 500px;
   padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 .cart:first-child {
   border-radius: 8px 0 0 8px;
@@ -83,7 +90,9 @@ button {
   border: 2px solid #f2f2f2;
   background-color: #f2f2f2;
   transition: all 0.5s ease-in-out;
-  margin-top: 100px;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
 }
 button a {
   padding: 11px 31px;
@@ -94,6 +103,9 @@ button a {
 button:hover {
   background-color: rgba(0, 0, 0, 0);
   transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
 }
 button a:hover {
   color: #f2f2f2;
